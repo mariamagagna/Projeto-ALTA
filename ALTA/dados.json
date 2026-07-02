@@ -1,0 +1,17 @@
+[
+    {
+        "nome":"Sensor 1",
+        "lat":-29.168,
+        "lng":-51.179,
+        "nivel":18,
+        "status":"ATENÇÃO"
+    },
+
+    {
+        "nome":"Sensor 2",
+        "lat":-29.182,
+        "lng":-51.160,
+        "nivel":9,
+        "status":"EMERGÊNCIA"
+    }
+]
