@@ -29,7 +29,7 @@ Além do monitoramento automático, o sistema permite que os usuários contribua
 
 ### Desenvolvimento Web
 
-- HTML5
+- HTML
 - CSS
 - JavaScript
 
